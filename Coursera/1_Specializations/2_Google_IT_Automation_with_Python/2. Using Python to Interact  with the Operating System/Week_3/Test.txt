@@ -1,9 +1,0 @@
-\.[A-za-z]*$
-
-1?[\d]:[0-5][\d]\s?[PpAa][M|m]
-
-\(.*\)
-
-4  Raw
-5  before it
-6 \s\d\d\d\d\d
